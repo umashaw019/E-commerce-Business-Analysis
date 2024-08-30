@@ -17,5 +17,5 @@ products.csv
 
 
 Potential Use Cases
-Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
 
+Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. I analyzed this dataset using Python and MySQL, where I used Python for plotting and visualizing data trends and MySQL queries to calculate and identify problems and solutions. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
